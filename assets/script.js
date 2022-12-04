@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-=======
-
-
->>>>>>> a30a1046d294b2423d6c18285f3fb2b4fe1ee4b3
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
 
 var randomTopic = topics[Math.floor(Math.random() * topics.length)];
@@ -39,7 +34,3 @@ listTopics()
 console.log('Which topic should we study first?');
 
 selectTopic()
-<<<<<<< HEAD
-=======
-
->>>>>>> a30a1046d294b2423d6c18285f3fb2b4fe1ee4b3
